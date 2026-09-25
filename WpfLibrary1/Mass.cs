@@ -19,7 +19,7 @@ namespace LibMas
                 Random Rand = new Random();
                 for (int i = 0; i < Count; i++)
                 {
-                    mas[i] = Rand.Next(-200, 201);
+                    mas[i] = Rand.Next(-300, 301);
                     if (mas[i] == 0)
                     {
                         mas[i] -= 1;

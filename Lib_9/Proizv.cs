@@ -33,6 +33,7 @@ namespace Lib_2
             else
                 return proiz;
         }
+        //лабадук
     }
 
 }
