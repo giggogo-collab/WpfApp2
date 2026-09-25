@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Lib_9/Lib_2.csproj" Id="ff76a9fe-ffe4-450e-84e8-f09584be043b" />
+  <Project Path="WpfApp1/WpfApp1.csproj" />
+  <Project Path="WpfLibrary1/LibMas.csproj" Id="47aa2322-401b-4a7c-b2e9-b5dbab179be9" />
+</Solution>
